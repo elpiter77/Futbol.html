@@ -43,7 +43,7 @@ nav ul li a {
 
 .hero {
     height: 100vh;
-    background: url('https://as01.epimg.net/futbol/imagenes/2021/02/11/reportajes/1613002271_264040_1613002427_noticiareportajes_grande.jpg') no-repeat center center/cover;
+    background: url('https://media.gq.com.mx/photos/64a58662b5db28ef394ff80c/master/w_2560%2Cc_limit/estadio.jpg') no-repeat center center/cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -56,12 +56,14 @@ nav ul li a {
 .hero h1 {
     font-size: 3em;
     margin: 0;
+    color: #fff;
 }
 
 
 .hero p {
     font-size: 1.5em;
     margin: 10px 0;
+    color: #fff;
 }
 
 
